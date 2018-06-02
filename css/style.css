@@ -1,3 +1,7 @@
 .text-justify {
   text-align: justify;
 }
+p {
+    font-size: 2vh; 2wh;
+    
+}
