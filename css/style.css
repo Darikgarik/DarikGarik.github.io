@@ -5,3 +5,19 @@ p {
     font-size: 2vh; 2wh;
     
 }
+.jumbotron {
+    background-image: url("https://www.impicture.de/wp-content/uploads/2017/02/Nordkette-Wolken-Mountain-jg.heckelmann-1920x400.jpg") ;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+h2{
+    font-size: 5vh; 5wh;
+}
+h1{
+    font-size: 5vh; 5wh;
+}
